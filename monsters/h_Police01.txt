@@ -1,0 +1,32 @@
+\(BEGIN)
+name = Police Officer|1
+icon file = icon_Police01.png,0,2,48,48,0,1,2
+miss sound = sound_Miss.wav
+hit sound = sound_Hit.wav
+move sound = sound_MonsterMoveStep.wav
+death sound = sound_MonsterDeathMedium.wav
+intelligence = 10
+armor class = 9
+movement rate = 12
+hit dice = 2
+treat HD as hit points = yes
+hit dice bonus = 0
+THAC0 = 18
+magic resistance = 0
+size = medium
+morale = 40
+experience point value = 80
+Special Ability = monsterLevel,2
+Class = Police Officer
+Race = Human
+form = mammal
+penalty = none
+immunity = none
+Misc Options = can be held/charmed
+item = Service Revolver
+item = .385 caliber bullet
+item = 
+attack = 2,1,0,attacks,
+Undead = none
+\(END)
+

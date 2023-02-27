@@ -1,0 +1,12 @@
+\(BEGIN)
+name = Engineer
+HitDiceLevelBonus = tech,Constitution,0,0,-2,-1,-1,-1,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2,2
+HitDiceBaseclass = *Average*
+StrengthBonusDice = 
+Starting Equipment = 
+Baseclass = tech
+Special Ability = class_NoSpells
+Special Ability = class_Engineer
+Special Ability = classNameSuppress,"Y"
+\(END)
+

@@ -1,0 +1,17 @@
+// Converting Transformers to DC:
+//	Strength = damage bonus		(n)
+//		bonus for melee attacks
+//		monsters get an SA with Damage Bonus to represent STR
+//	Intelligence = Intelligence	(2.5n, .5 rounds down)
+//	Speed = Movement			(2n)
+//	Endurance = Armor CLass		(5-n)
+//	Rank = 	Level				(2n)
+//		levels 1-20 for all
+//	Courage = Morale			(5n)
+//	Firepower = THAC0 bonus		(-n)
+//		monsters: this determines base damage
+//	Skill = # of skills			(2)
+//		skill relative to class and tech specs
+//	XP = total of all specs x 100
+
+//	October 19, 2020

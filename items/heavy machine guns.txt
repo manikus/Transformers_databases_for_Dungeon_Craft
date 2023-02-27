@@ -1,0 +1,38 @@
+// Heavy machine guns
+\(BEGIN)
+name = M60
+id name = M60
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 10
+combat range = 100
+cost = 
+hands to carry = 2
+baseclass = 
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 220
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemCombatAim,machinegun
+Special Ability = itemRangedWeapon,10
+weapon type = bow
+ammo type = 7.62mm
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+recharge rate = never
+spell effect = none
+\(END)
+

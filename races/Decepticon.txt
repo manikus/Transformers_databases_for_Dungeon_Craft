@@ -1,0 +1,21 @@
+\(BEGIN)
+name = Decepticon
+height = 2d50+120+((6+6d4)*Male)
+weight = 7d50+1000+((5d40)*Male)
+age = 1d100+1000
+maxage = 5d1000+35000
+BaseMovement = 18
+AbilityRequirement = Strength 3/25
+AbilityRequirement = Intelligence 3/25
+AbilityRequirement = Wisdom 3/25
+AbilityRequirement = Dexterity 3/25
+AbilityRequirement = Constitution 3/25
+AbilityRequirement = Charisma 3/25
+ChangeClass = no
+DwarfResistance = no
+GnomeResistance = no
+FindSecretDoor = no
+FindSecretDoorSearching = no
+Special Ability = race_RaceSuppress,"Y"
+\(END)
+

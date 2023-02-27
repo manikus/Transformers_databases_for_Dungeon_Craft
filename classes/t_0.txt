@@ -1,0 +1,3 @@
+// NPC - cybertronian
+//	Communications, Counter-Intelligence, Covert Operations, Demolitons, Engineer, Espionage, Gunner, Intelligence
+//	Leader, Medic, Reconnaissance, Saboteur, Scout, Security, Sentry, Soldier, Special Forces, Tactician, Terrorist

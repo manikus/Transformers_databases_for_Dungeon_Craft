@@ -1,0 +1,2 @@
+// NPC - humans
+//	Emergency Room Doctor, EMT, Mechanical Engineer, Police Officer, SPecial Agent, Taskforce Specialist

@@ -1,0 +1,75 @@
+// shotguns
+\(BEGIN)
+name = Mossberg Shotgun
+id name = Mossberg Shotgun
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 30
+cost = 
+hands to carry = 2
+baseclass = 
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 70
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemCombatAim,shotgun
+Special Ability = itemRangedWeapon,3
+weapon type = bow
+ammo type = 12-gauge
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+recharge rate = never
+spell effect = none
+\(END)
+
+\(BEGIN)
+name = Sawed-off Shotgun
+id name = Sawed-off Shotgun
+launch sound = none
+hit sound = sound_Hit.wav
+miss sound = sound_Miss.wav
+missile sprite = none
+hit sprite = none
+ROF per round = 1
+combat range = 10
+cost = 
+hands to carry = 2
+baseclass = 
+small/medium damage dice = 1D6 + 0
+large damage dice = 1D6 + 0
+AC base = 0
+AC bonus = 0
+attack bonus = 0
+experience = 0
+encumbrance = 40
+cursed = no
+non lethal = no
+readied location = WEAPON
+bundle quantity = 1
+Special Ability = itemCombatAim,shotgun
+Special Ability = itemRangedWeapon,1
+weapon type = bow
+ammo type = 12-gauge
+usable = no
+scribtable = no
+can drop = yes
+CanHalveJoin = no
+number of charges = 0
+recharge rate = never
+spell effect = none
+\(END)
+

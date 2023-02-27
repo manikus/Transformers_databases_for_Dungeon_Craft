@@ -1,0 +1,2 @@
+// Transformer baseclasses
+//	medic, scout, security, soldier

@@ -1,0 +1,2 @@
+// human baseclasses
+//	army, cop, medTech, reporter, student
